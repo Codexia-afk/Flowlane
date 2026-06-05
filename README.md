@@ -521,3 +521,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 **Flowlane — Automate Everything.**
 
 </div>
+
+
+
+      It not completed yet for deploy fully we have the frontend part and the backend part is under built up. 
