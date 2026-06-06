@@ -1,4 +1,4 @@
-# 🚀 Flowlane
+# 🚀 Flowlane: Automate everything
 
 <div align="center">
 
